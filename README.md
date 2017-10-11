@@ -1,6 +1,6 @@
 # kickstart_file
 ## Kickstart file to install Fedora
-To get a complete walk through of installing OS using kickstar file from HTTP server,go to https://minisatblog.wordpress.com/2017/10/11/installing-os-from-http-server-using-kickstart-file/
+To get a complete walk through of installing OS using kickstart file from HTTP server,go to https://minisatblog.wordpress.com/2017/10/11/installing-os-from-http-server-using-kickstart-file/
 # usage
 ```sh
 virt-install \
